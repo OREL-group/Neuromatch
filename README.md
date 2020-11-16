@@ -2,7 +2,9 @@
 
 Materials associated with the Neuromatch Academy and lab-associated supplemental materials.
 
+* Neuromatch homepage: www.neuromatch.io
 * Neuromatch Academy, OREL legacy repo [link](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy)
+
 
 
 
