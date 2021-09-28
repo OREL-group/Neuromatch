@@ -6,8 +6,8 @@ Materials associated with the Neuromatch Academy and lab-associated supplemental
 * Neuromatch Academy, OREL legacy repo [link](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy)
 
 ### 2021
-__Neuromatch 4 (December 2020)__     
-TBA
+__Neuromatch 4 (December 2021)__     
+- Submissions due Oct 25. OREL is preparing a number of different presentations this year!
 
 ### 2020  
 __Neuromatch 1 (April 2020)__    
